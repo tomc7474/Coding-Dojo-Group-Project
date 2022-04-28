@@ -1,0 +1,28 @@
+The concept for this site is that it would be a
+social media site for sharing thoughts on movies
+and adding them to a database. The user would make an
+account with their name, email, password, and a
+short bio. They would then be able to look at the 
+list of added films and click on them to bring them
+to its page. At that page they would be able to see 
+information regarding the film, such as director,
+release date, production company, cast, aggregate
+review score, and plot synopsis. Also on this page
+the user will be able to see all user reviews for 
+this film, and make their own, giving their 
+thoughts and a score. If the user wants to add a 
+movie to the database they can do so and add the 
+information above for a new film. If the user 
+wishes to see their own page or the page of another
+user they can do so, and they will be able to see the
+desired user's name, date joined, bio, and all of 
+their movie reviews. If the user wishes to edit any 
+reviews they've created they can do that on this page
+as well. If they wish they can also edit their 
+information.
+
+Some optional goals would be to add an image uploader
+so the user would be able to add a poster of the
+film. If possible it would also be interesting to add
+more ideas for user interaction, such as likes and 
+dislikes on reviews, and a response system.
